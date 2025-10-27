@@ -1,0 +1,21 @@
+# Python кэш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+
+# Виртуальные окружения
+venv/
+env/
+*.env
+
+# CatBoost и LightGBM временные файлы
+catboost_info/
+
+# Данные
+*.csv         
+
+# Ненужные ноутбуки
+Baseline.ipynb
+select_model.ipynb
+
+.DS_Store
