@@ -11,6 +11,10 @@ env/
 # CatBoost и LightGBM временные файлы
 catboost_info/
 
+
+# Mlflow
+mlruns/
+
 # Данные
 *.csv         
 
